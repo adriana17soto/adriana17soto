@@ -1,4 +1,5 @@
-<img src="./img/Banner.png" alt="baner">
+<img src="https://Users/AdrianaSoto/Desktop/mireadmeengithub/img/Banner.png" alt="baner">
+
 
 ## 👋 Hi, I’m  Adriana Soto
 
