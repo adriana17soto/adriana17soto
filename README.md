@@ -1,6 +1,6 @@
-<img src="https://Users/AdrianaSoto/Desktop/mireadmeengithub/img/Banner.png" alt="baner">
 
 
+<img src="https://https://www.canva.com/design/DAEsVtxWUAY/JhLlLpjNL69RilzGKoUsFA/watch?utm_content=DAEsVtxWUAY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="baner">
 ## 👋 Hi, I’m  Adriana Soto
 
 - 👀 I’m currently student on laboratoria
