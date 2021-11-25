@@ -1,4 +1,7 @@
-- 👋 Hi, I’m  Adriana Soto
+<img src="./img/Banner.png" alt="baner">
+
+## 👋 Hi, I’m  Adriana Soto
+
 - 👀 I’m currently student on laboratoria
 - 🌱 I’m currently learning Angular!
 - 📫 How to reach me: Adrianasoto1417@gmail.com
