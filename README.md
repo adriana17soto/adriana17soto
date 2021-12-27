@@ -1,7 +1,6 @@
 
 <img src="https://https://www.canva.com/design/DAEsVtxWUAY/JhLlLpjNL69RilzGKoUsFA/watch?utm_content=DAEsVtxWUAY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="baner">
 
-[![Watch the video]](https://https://www.canva.com/design/DAEsVtxWUAY/JhLlLpjNL69RilzGKoUsFA/watch?utm_content=DAEsVtxWUAY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## 👋 Hi, I’m  Adriana Soto
 
